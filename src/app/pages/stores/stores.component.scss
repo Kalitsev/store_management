@@ -1,0 +1,16 @@
+.section {
+  min-height: 1280px;
+
+  .cards {
+    width: 1400px;
+
+    &-item {
+      width: 330px;
+    }
+  }
+
+  .form {
+    width: 600px;
+  }
+}
+
